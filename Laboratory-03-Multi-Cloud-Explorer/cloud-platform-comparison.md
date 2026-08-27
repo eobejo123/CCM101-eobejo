@@ -23,8 +23,8 @@ Microsoft Azure best integrates with Microsoft technologies. Since Azure is deve
 **3. Which provider is strongest in Artificial Intelligence and Kubernetes?**
 Google Cloud Platform is strongest in AI and Kubernetes. Google created Kubernetes internally (based on its Borg system) before open-sourcing it, and GCP's Vertex AI and other machine learning tools are widely regarded as some of the most advanced in the industry.
 
-4. Which cloud platform would you personally choose and why?
-I would personally choose AWS because it offers a wide range of cloud services and has good documentation that can help me learn more about cloud computing. I also think learning AWS would be useful for improving my skills and preparing for a future career in IT.
+### 4. Which cloud platform would you personally choose and why?
+I would personally choose AWS because it provides many different services and can support different types of projects. I also think its wide range of services would give me more opportunities to learn about cloud computing.
 
 ## Service Matching Table
 
