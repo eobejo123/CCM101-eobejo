@@ -27,8 +27,6 @@ The `curl http://localhost:8080` command also returned the Nginx HTML response, 
 - **Status Before Removal:** `Exited (0)`
 - **Final Status:** Container removed successfully
 
-## Screenshots
-
 ### Nginx Successfully Deployed
 
 The first screenshot shows the Nginx container running and the browser displaying the default **Welcome to nginx!** page.
